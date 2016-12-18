@@ -83,7 +83,7 @@ header {
     text-align: center;
     color: #fff;
     /*background: #{{ site.color.primary }};*/
-    background:#43a047
+    background:#43a047;
 }
 
 header .container {
