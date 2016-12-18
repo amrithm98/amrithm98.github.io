@@ -1,0 +1,57 @@
+# Site settings
+title: Amrith M
+email: amrithchallenger@gmail.com
+url: https://amrithm98.github.io
+description: "I'm a passionate developer, loves to code and debug . Develops apps and websites, does backend works, and keeps my self updated"
+skills: "Web Developer - Android Developer - Tech Lover"
+meta_author: M Amrith
+
+# Google webmaster tools
+google_verify:
+
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Contact form:
+# - static : pass through formspree.io to validate email sending
+# - disqus : replace contact form by disqus thread
+# - comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# If you use disqus you need disqus shortname
+# https://help.disqus.com/customer/portal/articles/466208
+disqus_shortname: myshortname
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 004d40 #80B3FF
+  primary-rgb: "24,288,156" #"128,179,255"
+  secondary: 2c3e50 #FD6E8A
+  secondary-dark: 233140 #A2122F
+
+# Footer settings
+footer:
+  location: Location
+  social: Around the Web
+  credits: Me
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: facebook
+    url: https://www.facebook.com/amrith.mn98
+  - title: linkedin
+    url: https://in.linkedin.com/in/amrithm98
+  - title: bitbucket
+    url: http://bitbucket.org/amrith98
+  - title: github
+    url: http://github.com/amrithm98
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Calicut
+  - line: Kerala, India
+
+# Credits content
+# Build settings
+markdown: kramdown
+permalink: pretty
