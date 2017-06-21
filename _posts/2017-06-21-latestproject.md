@@ -2,7 +2,7 @@
 layout: default
 modal-id: 6
 date: 2017-06-21
-img: google-applied-cs.png
+img: google-applied-cs.jpg
 alt: back.jpg
 project-date: June 2017
 category: Android
