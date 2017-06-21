@@ -1,6 +1,7 @@
 ---
 layout: default
-modal-id: 6
+modal-id: 1
+title: Applied CS With Android
 date: 2017-06-21
 img: google-applied-cs.jpg
 alt: google-applied-cs.jpg
