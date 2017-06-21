@@ -1,11 +1,13 @@
 ---
 layout: portfolio_entry
-title: Applied CS With Android
-image:./img/google-applied-cs.jpg
+title: Applied CS With Android 
+image:/img/google-applied-cs.jpg
 ---
 
-Hey guys! I've done a few apps which are the units of Google' Applied CS With Android program. Stay tuned for the remaining apps.
-Checkout my github for the code : https://github.com/amrithm98/Applied_CS_With_Android-Code
+Post excerpt goes here. The first paragraph will be shown only, along with a read more button which links to the full post. Perfect for 
+placing project descriptions or to actually blog about something!
 
 #### Header 1
 
+Hey guys! I've done a few apps which are the units of Google' Applied CS With Android program. Stay tuned for the remaining apps.
+Checkout my github for the code : https://github.com/amrithm98/Applied_CS_With_Android-Code
