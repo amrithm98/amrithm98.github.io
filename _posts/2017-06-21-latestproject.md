@@ -1,7 +1,7 @@
 ---
 layout: portfolio_entry
-title: First Project
-image: /img/folder-name/image-name.png
+title: Applied CS With Android Applications
+image: /img/google-applied-cs.jpg
 ---
 
 Post excerpt goes here. The first paragraph will be shown only, along with a read more button which links to the full post. Perfect for 
@@ -9,6 +9,5 @@ placing project descriptions or to actually blog about something!
 
 #### Header 1
 
-Content Here.
-
-More Content.
+Hey guys! I've done a few apps which are the units of Google' Applied CS With Android program. Stay tuned for the remaining apps.
+Checkout my github for the code : https://github.com/amrithm98/Applied_CS_With_Android-Code
